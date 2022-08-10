@@ -1,2 +1,3 @@
 # git_notes
-Git notes 
+Git notes
+Author: Daniel Corredor 
