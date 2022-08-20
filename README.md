@@ -21,3 +21,7 @@ git push
 
 # this is for new files
 git push origin master
+
+# to pull from main repository
+pull
+
