@@ -6,6 +6,10 @@ Date: 08/09/22
 
 Notes about Git
 
+git clone git@github.com:
+
+
+
 git status
 # Only add new file
 git add index.html 
